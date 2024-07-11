@@ -33,8 +33,8 @@ Create a responsive multi-step form with three steps, ensuring data validation, 
 ## Setup Instructions
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/vishwajeet14all/Gurucool_frontend.git
+    cd gurucool-frontend
     ```
 
 2. **Install dependencies**:
